@@ -1,5 +1,5 @@
 /**
- * promise-mini v0.1.0
+ * promise-mini v0.1.1
  * (c) 2017 Yang Mingshan
  * Released under the MIT License.
  */
