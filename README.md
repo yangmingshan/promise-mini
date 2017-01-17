@@ -17,5 +17,8 @@ npm install promise-mini
 var Promise = require('promise-mini');
 ```
 
+## 已知问题
+见 [#1](https://github.com/yangmingshan/promise-mini/issues/1)
+
 ## License
 [MIT](http://opensource.org/licenses/MIT)
